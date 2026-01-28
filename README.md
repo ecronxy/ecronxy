@@ -1,16 +1,34 @@
-## Hi there 👋
+<div align="center">
+  
+![7e7a8bf3cfd1db0296073a856ae01776](https://github.com/user-attachments/assets/40f03364-68e4-46d7-a62e-c1d834ef5dde)
 
-<!--
-**ecronxy/ecronxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ⚡ Ecronx | Emoji Maker
 
-Here are some ideas to get you started:
+ • [Telegram](https://t.me/ecronx) • 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+
+</div>
+
+## 🛠 Tech Stack
+
+### 💻 Programming 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### ⚙️ Infrastructure & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+
+---
+
+## 📈 Github Analytics
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ecronxy&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecronxy&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" height="180px" />
+</p>
+
+---
+<div align="right">
+<img src="https://komarev.com/ghpvc/?username=ecronxy&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="views" />
+</div>
