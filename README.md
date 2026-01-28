@@ -6,8 +6,6 @@
 
  • [Telegram](https://t.me/ecronx) • 
 
----
-
 
 </div>
 
