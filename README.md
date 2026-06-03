@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="./banner.gif" width="380" alt="Anime Coding Girl Banner" />
+</div>
+
+<br/>
+
 # <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=FFFFFF&center=false&vCenter=true&width=400&lines=ecronx;software+engineer;bot+developer" alt="ecronx" />
 
 ### <img src="https://cdn.simpleicons.org/codio/white" width="20" height="20" valign="middle" /> Технологический стек
