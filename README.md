@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.gif" width="380" alt="Anime Coding Girl Banner" />
+  <img src="./banner_kon.gif" width="380" alt="Anime Coding Girl Banner" />
 </div>
 
 <br/>
