@@ -12,9 +12,14 @@
 
 ## Проекты
 
-| | |
-|---|---|
-| **[mokaGram](https://github.com/mokagram/mokagram)** | Клиент на основе Telegram Desktop с переработанным дизайном и новыми функциями, плагины на Python. |
-| **[eCore](https://github.com/ecronxy/ecore)** | Своё ядро векторной анимации для веба. Играет стикеры Telegram, файлы .ecr вдвое меньше .tgs. |
-| **[sdroute](https://github.com/ecronxy/sdroute)** | School Days (Ren'Py): проверенные маршруты ко всем 22 концовкам и поиск маршрута. |
-| **[mokagram-plugins](https://github.com/ecronxy/mokagram-plugins)** | Каталог плагинов для mokaGram. |
+**[mokaGram](https://github.com/mokagram/mokagram)**<br>
+Клиент на основе Telegram Desktop с переработанным дизайном и новыми функциями, плагины на Python.
+
+**[eCore](https://github.com/ecronxy/ecore)**<br>
+Своё ядро векторной анимации для веба. Играет стикеры Telegram, файлы .ecr вдвое меньше .tgs.
+
+**[sdroute](https://github.com/ecronxy/sdroute)**<br>
+School Days (Ren'Py): проверенные маршруты ко всем 22 концовкам и поиск маршрута.
+
+**[mokagram-plugins](https://github.com/ecronxy/mokagram-plugins)**<br>
+Каталог плагинов для mokaGram.
